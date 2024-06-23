@@ -1,5 +1,4 @@
-# How To Import You Projects In Bash
-Script In Bash And Shell
+
 # Como Usar?
 ### Windows
 * Para importar um projeto do GitHub utilizando o PowerShell, você precisará seguir alguns passos. Primeiro, certifique-se de que o Git está instalado em seu sistema. Aqui está um guia passo a passo:
