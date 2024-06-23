@@ -1,1 +1,1 @@
-cd repo
+cd /repo
